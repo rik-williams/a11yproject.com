@@ -1724,5 +1724,11 @@
 			"additional": "Stefan Feješ",
 			"url": "https://webaccessibility.guide/"
 		}
+		{
+			"title": "Dementia Digital Design Guidelines / Heuristics",
+			"description": "Create accessible websites, applications and software for people affected by dementia with the help of our dementia digital design guidelines.",
+			"additional": "Alzheimer's Society; Rik Williams",
+			"url": "https://docs.google.com/spreadsheets/d/1PMlmCkVQvtothQ5JYwP9pJixThJ-n0h7EgiZWer9owM/edit#gid=0"
+		}
 	]
 }
